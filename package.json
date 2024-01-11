@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-icons": "^4.12.0",
+    "react-silk": "^0.0.1",
+    "remixicon": "^4.0.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
